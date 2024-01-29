@@ -24,7 +24,11 @@ main {
 #title-manifest {
     font-size: 250%;
     margin: 0 auto;
+    font-weight: 800;
 }
-section {
-    width: 80%;
+.autor-article{
+    font-size: 125%;
+}
+.date-article{
+    font-size: 80%;
 }
