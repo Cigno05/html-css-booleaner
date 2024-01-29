@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+header {
+    background-color: rgb(78, 160, 255);
+    background-image: url(../img/pattern.png);
+    padding-left: 200px;
+    padding-top: 75px;
+    padding-bottom: 25px;
+    
+
+}
+#the-booleaner {
+    width: 300px;
+    
+}
