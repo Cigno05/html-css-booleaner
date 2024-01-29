@@ -29,11 +29,20 @@ main, aside {
     margin: 0 auto;
     font-weight: 800;
 }
-.autor-article{
+.autor-block *{
+    margin: 0;
+}
+.font-blue{
+    color: rgb(78, 160, 255);
+}
+.autor{
     font-size: 125%;
 }
 .date-article{
     font-size: 80%;
+}
+.autor, .date-article{
+    color: gray;
 }
 .description-photo{
     font-size: 80%;
