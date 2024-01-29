@@ -17,7 +17,7 @@ header {
     margin: 0 auto;
     margin-top: 5%;
 }
-main {
+main, aside {
     margin: 0 auto;
     width: 80%;
 }
@@ -61,4 +61,30 @@ th{
 }
 .blue-row{
     background-color: rgb(177, 228, 242);
+}
+#correlate-article{
+    color: gray;
+    font-weight: bold;
+    font-size: 125%;
+    
+}
+.interest-text {
+    color: white;
+    font-size: 180%;
+    padding-left: 10px;
+    
+}
+
+.photo-1{
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+}
+.photo-2{
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+}
+.photo-1,.photo-2{
+    margin-bottom: 10px;
 }
