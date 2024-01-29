@@ -1,16 +1,30 @@
 body{
     margin: 0;
+    border: 0;
 }
 header {
     background-color: rgb(78, 160, 255);
     background-image: url(../img/pattern.png);
-    padding-left: 200px;
-    padding-top: 75px;
-    padding-bottom: 25px;
-    
-
 }
-#the-booleaner {
-    width: 300px;
+.conteiner-booleaner{  
+    margin: 0 auto;
+    width: 80%;
     
+}
+
+#the-booleaner {
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+main {
+    margin: 0 auto;
+    width: 80%;
+}
+#title-manifest {
+    font-size: 250%;
+    margin: 0 auto;
+}
+section {
+    width: 80%;
 }
