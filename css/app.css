@@ -21,6 +21,9 @@ main {
     margin: 0 auto;
     width: 80%;
 }
+.title{
+    margin-bottom: 20px;
+}
 #title-manifest {
     font-size: 250%;
     margin: 0 auto;
@@ -31,4 +34,8 @@ main {
 }
 .date-article{
     font-size: 80%;
+}
+.description-photo{
+    font-size: 80%;
+    margin: 0;
 }
