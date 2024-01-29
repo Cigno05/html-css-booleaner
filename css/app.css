@@ -45,3 +45,20 @@ main {
 ul{
     padding-inline-start: 1em;
 }
+table{
+    width: 100%;
+    border-spacing: 0;
+    text-align: left;
+    
+}
+th{
+    background-color:rgb(78, 160, 255);
+    color: white;
+    
+}
+.big-column{
+    width: 40%;
+}
+.blue-row{
+    background-color: rgb(177, 228, 242);
+}
